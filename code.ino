@@ -11,6 +11,7 @@ void setup() {
   // Print a message to the LCD.
   lcd.print("hello, iHi!");
   pinMode(6,INPUT);
+  delay(3000);
 }
 
 void loop() {
